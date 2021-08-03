@@ -1,0 +1,7 @@
+{
+                                                                                                    "git.ignoreLimitWarning": true,
+                                                                                                    "powershell.pester.debugOutputVerbosity": "Detailed",
+                                                                                                    "jupyter.debugJustMyCode": false,
+                                                                                                    "testing.defaultGutterClickAction": "contextMenu",
+                                                                                                    "debug.onTaskErrors": "abort"
+}
